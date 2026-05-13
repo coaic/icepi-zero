@@ -6,5 +6,5 @@ decimating the clock counter it just grabs the high order counter bits
 for the LED interval.  
   
 button 0 is used to enable and disable LED lighting and to reset the count  
-button 1 is used disable the PWM and iluminate at full brightness.  
+button 1 is used disable the PWM and illuminate at full brightness.  
 
