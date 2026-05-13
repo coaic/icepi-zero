@@ -8,3 +8,8 @@ for the LED interval.
 button 0 is used to enable and disable LED lighting and to reset the count  
 button 1 is used disable the PWM and illuminate at full brightness.  
 
+
+Note: this is tested on v1.3 HW before the new LED resistors change.  
+This means that the current dimming may be too dull on the most recent  
+spin of v1.3. You can sleect more or fewer bits on line 41 or a diffent  
+mask to adjust the pulse widths.  
