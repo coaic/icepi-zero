@@ -127,10 +127,10 @@ For 1024x600 60Hz video output with audio, check out @danodus's awesome implemen
 
 And here are some retro ports:
 
-- [Apple 1 Emulator](https://github.com/alangarf/apple-one)
-- [Port of Acorn Atom](https://github.com/cheyao/acorn_atom)
-- [Commodore 64](https://github.com/cheyao/c64)!
+- [Commodore 64](https://github.com/m1nl/icepi-zero-c64) by @m1nl
 - [Oberon](https://github.com/cheyao/oberon)
+- [Port of Acorn Atom](https://github.com/cheyao/acorn_atom)
+- [Apple 1 Emulator](https://github.com/alangarf/apple-one)
 - [Sega Master System](https://github.com/cheyao/sega-sms)
 - [Port of Silice](https://github.com/sylefeb/Silice/) (Check out the projects folder - it's full of interesting programs)
 - [NES](https://github.com/m1nl/icepi-zero-nes/) implemented by [@m1nl](https://github.com/m1nl)
